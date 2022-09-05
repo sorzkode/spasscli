@@ -1,0 +1,8 @@
+License.md
+README.md
+setup.py
+spasscli.egg-info/PKG-INFO
+spasscli.egg-info/SOURCES.txt
+spasscli.egg-info/dependency_links.txt
+spasscli.egg-info/requires.txt
+spasscli.egg-info/top_level.txt
