@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/sorzkode/spasscli/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sorzkode/spasscli/actions/workflows/codeql-analysis.yml)
 [[GUI Version](https://github.com/sorzkode/spassgui)]
 [[MIT Licence](https://en.wikipedia.org/wiki/MIT_License)]
 
