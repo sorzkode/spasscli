@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='spasscli',
-    version='1.0.0',
+    version='1.1.0',
     description='Random password generator.',
     url='https://github.com/sorzkode/',
     author='Mister Riley',
